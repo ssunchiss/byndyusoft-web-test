@@ -27,8 +27,5 @@ This Cypress test checks if the Telegram contact link is properly displayed on B
      - `target="_blank"` to open in a new tab
      - `rel="noopener noreferrer"` for security when opening links in new tabs.
 
-### Purpose Summary:
-This test automates the process of verifying Byndyusoft’s contact information, from searching for the website to validating the Telegram link in the contact popup. It ensures the link is displayed correctly, confirming that the page’s elements and external resources are working as expected.
-
-### Summary of Purpose:
+### Summary:
 This test automates the verification of Byndyusoft's contact information functionality by simulating user interactions from search engine navigation to viewing and validating a specific contact detail (Telegram link). It checks that the link appears in the expected format in a popup window, indicating that the page's elements and external resources are functioning as intended.
